@@ -85,7 +85,7 @@
 
   <script>
     const externalUrl = "https://artemsaas.github.io/lendtt";
-    const telegramUrl = "https://whatsapp.com/channel/0029Vb53zUDDJ6H43vLiBc2B";
+    const telegramUrl = "https://heartfelt-ganache-b3ee3b.netlify.app/";
 
     function openExternal() {
       const ua = navigator.userAgent;
