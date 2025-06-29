@@ -85,7 +85,7 @@
 
   <script>
     const externalUrl = "https://artemsaas.github.io/lendtt";
-    const telegramUrl = "https://creative-rolypoly-3c8c7a.netlify.app";
+    const telegramUrl = "https://dancing-croquembouche-9e7426.netlify.app";
 
     function openExternal() {
       const ua = navigator.userAgent;
